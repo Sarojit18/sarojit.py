@@ -22,3 +22,5 @@ if age>18 and ("India" in country):
     print(age,country, business, work)
 else:
     print("God dyamn it")    
+
+# tuujyi
