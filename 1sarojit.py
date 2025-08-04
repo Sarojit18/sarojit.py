@@ -1,5 +1,4 @@
- a= int(input ("14"))
- a= int(input ("14"))
+a= int(input ("14"))
 b= int(input ("6"))
 op = input("Enter any one of the operator(+,-,*,/):")
 
@@ -32,4 +31,9 @@ print("Addition =", c )
 a = 1 
 b = 5
 c = a+b
-print(input("Addition="), c)
+print(("Addition="), c)
+
+q = input("69");
+e = input("96");
+r == q+e
+print("Addition=",r)
