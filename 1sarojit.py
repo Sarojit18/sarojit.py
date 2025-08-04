@@ -1,3 +1,16 @@
+ a= int(input ("14"))
+ a= int(input ("14"))
+b= int(input ("6"))
+op = input("Enter any one of the operator(+,-,*,/):")
+
+if op=="+":
+    print(a+b)
+elif op =="-":
+    print(a-b)
+else:
+    prnt(b-a)
+    
+print("coderashishy" + "Crispy_tg")    # hello guys chai peelo
 
 j= ["i","u","t","c","d","j","g","h"]
 
