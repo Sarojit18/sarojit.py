@@ -37,3 +37,5 @@ q = input("69");
 e = input("96");
 r == q+e
 print("Addition=",r)
+x(1,2,3,4,5,6,7,8,9)/n
+print 
